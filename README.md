@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Drasti, pronounced Dra-shti.
+
+### 🌱 Currently
+
+Trying to brush up on my technical skills. Specifically, I'm trying to improve my Python skills and learn more about computational applications in the world of biology.
+
+
+
 <!--
 **dvp95/dvp95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
