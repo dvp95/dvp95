@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Drasti, pronounced Dra-shti.
+I'm Drasti, pronounced Druh-shti.
 
 ### 🌱 Currently
 
