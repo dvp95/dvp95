@@ -4,8 +4,6 @@ I'm Drasti, pronounced Druh-shti.
 
 ### 🌱 Currently
 
-Trying to brush up on my technical skills. Specifically, I'm trying to improve my Python skills and learn more about computational applications in the world of biology.
-
 
 
 <!--
