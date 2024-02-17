@@ -3,7 +3,7 @@
 I'm Drasti, pronounced Druh-shti.
 
 ### 🔭 Currently working on 
-- Using various LLMs models to create mini projects. 
+- Using various LLMs to create mini projects. 
 
 <!--
 **dvp95/dvp95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
