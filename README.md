@@ -3,7 +3,7 @@
 I'm Drasti, pronounced Druh-shti.
 
 ### 🔭 Currently working on 
-- Adding my own flair to a star map tutorial in Python
+- Using various LLMs models to create mini projects. 
 
 <!--
 **dvp95/dvp95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
